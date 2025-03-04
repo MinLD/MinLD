@@ -7,6 +7,7 @@
 - 🎯 **Frontend Developer**, passionate about creating beautiful and user-friendly interfaces.
 - 💡 Learning **Next.js, Tailwind CSS, TypeScript** to build high-performance web applications.
 - ⚡ Interested in **Backend Technologies** like **MySQL & MongoDB**.
+- 👨‍💻 All of my projects are available at https://github.com/MinLD
 - 🌍 Open to collaboration and learning new things.
 
 ---
@@ -31,7 +32,7 @@
 ---
 
 ## 🤝 **Connect With Me**
-- 🔗 [**GitHub Profile**]: https://github.com/MinLD
+- 🔗 Github: https://github.com/MinLD
 - 📧 Email: dodangminhluan@gmail.com
 - 🌐 Portfolio: 
 - 💼 LinkedIn:
