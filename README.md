@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Luan 👋</h1>
+<h1 align="center">Hi, I'm Luan 👋</h1>
 <h3 align="center">🚀 I’m currently learning Frontend Developer | ReactJS | NextJS |  🚀</h3>
 
 ---
