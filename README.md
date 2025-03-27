@@ -5,7 +5,7 @@
 
 ## 📌 **About Me**
 - 🎯 **Frontend Developer**, passionate about creating beautiful and user-friendly interfaces.
-- 🌱 I am currently learning ReactJS and NextJS to fulfill my dream of becoming a FullStack Developer.
+- 🌱 I am currently learning ReactJS and Nest to fulfill my dream of becoming a FullStack Developer.
 - 👨‍💻 All of my projects are available at https://github.com/MinLD
 - 🌍 Open to collaboration and learning new things.
 
