@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luan 👋</h1>
-<h3 align="center">🚀 I’m currently learning Frontend Developer | Java Spring Boot | NextJS |  🚀</h3>
+<h3 align="center">🚀 I’m currently studying the Fullstack Developer path, focusing on Frontend (ReactJS, Next.js) and Backend (Java Spring Boot) 🚀</h3>
 
 ---
 
