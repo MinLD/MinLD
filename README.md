@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Luan 👋</h1>
-<h3 align="center">🚀 I’m currently learning Frontend Developer | NestJS | NextJS |  🚀</h3>
+<h3 align="center">🚀 I’m currently learning Frontend Developer | Java Spring Boot | NextJS |  🚀</h3>
 
 ---
 
 ## 📌 **About Me**
 - 🎯 **Frontend Developer**, passionate about creating beautiful and user-friendly interfaces.
-- 🌱 I am currently learning Nextjs and Nestjs to fulfill my dream of becoming a FullStack Developer.
+- 🌱 I am currently learning Nextjs and Java Spring Boot to fulfill my dream of becoming a FullStack Developer.
 - 👨‍💻 All of my projects are available at https://github.com/MinLD
 - 🌍 Open to collaboration and learning new things.
 
