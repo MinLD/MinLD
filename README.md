@@ -6,7 +6,7 @@
 ## 📌 **About Me**
 - 🎯 **Frontend Developer**, passionate about creating beautiful and user-friendly interfaces.
 - 🌱 I am currently learning Nextjs and Java Spring Boot to fulfill my dream of becoming a FullStack Developer.
-- 👨‍💻 All of my projects are available at https://github.com/MinLD
+- 👨‍💻 All of my projects are available at [https://github.com/MinLD](https://github.com/MinLD?tab=repositories)
 - 🌍 Open to collaboration and learning new things.
 
 ---
