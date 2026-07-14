@@ -1,15 +1,5 @@
 <h1 align="center">Hi, I'm Luan 👋</h1>
-<h3 align="center">🚀 I’m currently studying the Fullstack Developer path, focusing on Frontend (ReactJS, Next.js) and Backend (Java Spring Boot) 🚀</h3>
-
----
-
-## 📌 **About Me**
-- 🎯 **Frontend Developer**, passionate about creating beautiful and user-friendly interfaces.
-- 🌱 I am currently learning Nextjs and Java Spring Boot to fulfill my dream of becoming a FullStack Developer.
-- 👨‍💻 All of my projects are available at [https://github.com/MinLD](https://github.com/MinLD?tab=repositories)
-- 🌍 Open to collaboration and learning new things.
-
----
+<h3 align="center">🚀 I’m currently studying the Fullstack Developer path, focusing on Frontend (ReactJS, Next.js) and Backend (Python, Node) 🚀</h3>
 
 ## 🔥 **Languages & Tools**  
 <p align="left">
@@ -20,8 +10,12 @@
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <!-- Spring Boot -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-
+  <img src="https://imgs.search.brave.com/OPqal0U16djDsQZ3ABS9ETXUHYQVWwK5Ubc_xqSh3tM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9weXRob24t/aWNvbi1zdmctZG93/bmxvYWQtcG5nLTk2/MzI4NzAucG5nP2Y9/d2VicCZ3PTEyOA" alt="Spring Boot" width="50" height="50"/>
+    <img src="https://imgs.search.brave.com/yds3w-ts9z4bJf7E4-ZvjUNtCH0cch1PZNYQ2CRfySg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3Ivbm9kZS1q/cy1mcmFtZXdvcmst/d2ViLWRldmVsb3Bt/ZW50LTI2MG53LTE3/NDA4MTEyODYuanBn" alt="Java" width="50" height="50"/>
+        <img src="https://imgs.search.brave.com/m8wC4Jy-IbCAOxDefnncUGifKxmfVeV_wPUakxsBACI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMzLzEvZXhwcmVz/cy1qcy1sb2dvLXBu/Z19zZWVrbG9nby0z/Mzk4NTAucG5n" alt="Java" width="50" height="50"/>
+            <img src="https://imgs.search.brave.com/s4r-I8ca0_ONcrFkS-KDW5UttmvWJsJrkqOUgCUaYrY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE3Lzg4/LzU4LzE3ODg1ODk1/NmRkNjgyMmZhN2U3/MDA1ZjM0NmZhMzli/LmpwZw" alt="Java" width="50" height="50"/>
+  
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
